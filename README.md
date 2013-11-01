@@ -1,11 +1,9 @@
-## BLELabs Tutorial #0003 - Source Code ##
+## BLELabs Tutorial #0003 - cross-platform port ##
 
-#### BLELabs BLE112-Protostick - Verbinden, Charakteristiken, Handles, Services und Notifications unter Windows ####
+#### BLELabs BLE112-Protostick - Connect, Characteristcs, Handles, Services and Notifications ####
 
-Das Tutorial findest du [hier](http://www.blelabs.com/blog/category/tutorials) in unserem Blog.
+You can find the tutorial on the [BLELabs Blog](http://www.blelabs.com/blog/category/tutorials).
 
-*The english version is coming soon.*
-
-![Hardware Aufbau][aufbau]
-
-[aufbau]: http://www.blelabs.com/blog/wp-content/uploads/2013/07/BL_T0001_Aufbau.jpg "Tutorial Aufbau"
+*The following picture belongs to BLELabs.*
+![Hardware setup][setup]
+[setup]: http://www.blelabs.com/blog/wp-content/uploads/2013/07/BL_T0001_Aufbau.jpg "Tutorial setup"
