@@ -20,3 +20,7 @@
 .settings
 .cproject
 .project
+
+# .gitignore temp file
+.gitignore~
+.gitignore.swp.!sync
